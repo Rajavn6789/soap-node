@@ -1,0 +1,804 @@
+2018-06-30 23:32:53 - [32minfo[39m: wsdl file has been sync loaded
+2018-06-30 23:32:53 - [32minfo[39m: Listening on port 8080
+2018-06-30 23:32:53 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-06-30 23:32:53 - [32minfo[39m: soap client has been created
+2018-06-30 23:33:14 - [32minfo[39m: wsdl file has been sync loaded
+2018-06-30 23:33:14 - [32minfo[39m: Listening on port 8080
+2018-06-30 23:33:14 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-06-30 23:33:14 - [32minfo[39m: soap client has been created
+2018-06-30 23:33:18 - [32minfo[39m: wsdl file has been sync loaded
+2018-06-30 23:33:18 - [32minfo[39m: Listening on port 8080
+2018-06-30 23:33:18 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-06-30 23:33:18 - [32minfo[39m: soap client has been created
+2018-07-01 01:28:17 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 01:28:17 - [32minfo[39m: Listening on port 8080
+2018-07-01 01:28:17 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 01:28:18 - [32minfo[39m: soap client has been created
+2018-07-01 01:28:22 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 01:28:22 - [32minfo[39m: Listening on port 8080
+2018-07-01 01:28:22 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 01:28:22 - [32minfo[39m: soap client has been created
+2018-07-01 01:28:34 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 01:28:34 - [32minfo[39m: Listening on port 8080
+2018-07-01 01:28:34 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 01:28:34 - [32minfo[39m: soap client has been created
+2018-07-01 01:28:58 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 01:28:58 - [32minfo[39m: Listening on port 8080
+2018-07-01 01:28:58 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 01:28:58 - [32minfo[39m: soap client has been created
+2018-07-01 01:29:37 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 01:29:37 - [32minfo[39m: Listening on port 8080
+2018-07-01 01:29:37 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 01:29:37 - [32minfo[39m: soap client has been created
+2018-07-01 01:29:45 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 01:29:45 - [32minfo[39m: Listening on port 8080
+2018-07-01 01:29:45 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 01:29:45 - [32minfo[39m: soap client has been created
+2018-07-01 10:39:01 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 10:39:01 - [32minfo[39m: Listening on port 8080
+2018-07-01 10:39:01 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 10:39:02 - [32minfo[39m: soap client has been created
+2018-07-01 11:15:36 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:15:36 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:15:36 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:15:36 - [32minfo[39m: soap client has been created
+2018-07-01 11:15:51 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:15:51 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:15:51 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:15:51 - [32minfo[39m: soap client has been created
+2018-07-01 11:17:14 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:17:14 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:17:14 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:17:14 - [32minfo[39m: soap client has been created
+2018-07-01 11:18:29 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:18:29 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:18:29 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:18:30 - [32minfo[39m: soap client has been created
+2018-07-01 11:21:27 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:21:27 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:21:27 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:21:27 - [32minfo[39m: soap client has been created
+2018-07-01 11:21:27 - [32minfo[39m: soap client has been created
+2018-07-01 11:22:36 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:22:36 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:22:36 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:22:36 - [32minfo[39m: soap client has been created
+2018-07-01 11:22:36 - [32minfo[39m: Splitter service responded successfully[object Object]
+2018-07-01 11:23:29 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:23:29 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:23:29 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:23:29 - [32minfo[39m: soap client has been created
+2018-07-01 11:23:29 - [32minfo[39m: Splitter service responded successfully[object Object]
+2018-07-01 11:25:27 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:25:27 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:25:27 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:25:27 - [32minfo[39m: soap client has been created
+2018-07-01 11:25:27 - [32minfo[39m: Splitter service responded successfully[object Object]
+2018-07-01 11:27:19 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:27:19 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:27:19 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:27:19 - [32minfo[39m: soap client has been created
+2018-07-01 11:27:19 - [32minfo[39m: Splitter service responded successfully[object Object]
+2018-07-01 11:28:09 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:28:09 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:28:09 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:28:09 - [32minfo[39m: soap client has been created
+2018-07-01 11:28:09 - [32minfo[39m: Splitter service responded successfully[object Object]
+2018-07-01 11:28:24 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:28:24 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:28:24 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:28:24 - [32minfo[39m: soap client has been created
+2018-07-01 11:28:24 - [32minfo[39m: Splitter service responded successfully[object Object]
+2018-07-01 11:28:47 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:28:47 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:28:47 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:28:47 - [32minfo[39m: soap client has been created
+2018-07-01 11:28:47 - [32minfo[39m: Splitter service responded successfully{"result":["id1","12","34","56","out42"]}
+2018-07-01 11:29:37 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:29:37 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:29:37 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:29:37 - [32minfo[39m: soap client has been created
+2018-07-01 11:29:37 - [32minfo[39m: Splitter service responded successfully{"result":["id1","12","34","56","out42"]}
+2018-07-01 11:29:57 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:29:57 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:29:57 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:29:58 - [32minfo[39m: soap client has been created
+2018-07-01 11:29:58 - [32minfo[39m: Splitter service responded successfully{"result":["id1","12","34","56","out42"]}
+2018-07-01 11:31:30 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:31:30 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:31:30 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:31:30 - [32minfo[39m: soap client has been created
+2018-07-01 11:31:30 - [32minfo[39m: Splitter service responded successfully{"result":["id1","12","34","56","out42"]}
+2018-07-01 11:32:32 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:32:32 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:32:32 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:32:32 - [32minfo[39m: soap client has been created
+2018-07-01 11:32:32 - [32minfo[39m: Splitter service responded successfully{"result":["id1","12","34","56","out42"]}
+2018-07-01 11:32:33 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:32:33 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:32:33 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:32:33 - [32minfo[39m: soap client has been created
+2018-07-01 11:32:33 - [32minfo[39m: Splitter service responded successfully{"result":["id1","12","34","56","out42"]}
+2018-07-01 11:35:52 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:35:52 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:35:52 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:35:52 - [32minfo[39m: soap client has been created
+2018-07-01 11:35:52 - [32minfo[39m: Splitter service responded successfully{"result":["id1","12","34","56","out42"]}
+2018-07-01 11:57:06 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:57:06 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:57:06 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:57:06 - [32minfo[39m: soap client has been created
+2018-07-01 11:57:06 - [32minfo[39m: Splitter service responded successfully{"result":["id1","12","34","56","out42"]}
+2018-07-01 11:57:49 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:57:49 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:57:49 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:57:49 - [31merror[39m: Error while creating client, Error [%s]
+2018-07-01 11:59:09 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:59:09 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:59:09 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:59:09 - [31merror[39m: Error while creating client, Error [%s]
+2018-07-01 11:59:25 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 11:59:25 - [32minfo[39m: Listening on port 8080
+2018-07-01 11:59:25 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 11:59:25 - [31merror[39m: Error while creating client, Error [Error: ENOENT: no such file or directory, open 'shttp://localhost:8080/wsdl?wsdl']
+2018-07-01 12:00:19 - [32minfo[39m: [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] wsdl file has been sync loaded
+2018-07-01 12:00:19 - [32minfo[39m: [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] Listening on port 8080
+2018-07-01 12:00:19 - [32minfo[39m: [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:00:19 - [31merror[39m: [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] Error while creating client, Error [Error: ENOENT: no such file or directory, open 'shttp://localhost:8080/wsdl?wsdl']
+2018-07-01 12:00:39 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:00:39 - [32minfo[39m: Listening on port 8080
+2018-07-01 12:00:39 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:00:39 - [31merror[39m: Error while creating client, Error [Error: ENOENT: no such file or directory, open 'shttp://localhost:8080/wsdl?wsdl']
+2018-07-01 12:01:00 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:01:01 - [32minfo[39m: Listening on port 8080
+2018-07-01 12:01:01 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:01:01 - [31merror[39m: Error while creating client - [Error: ENOENT: no such file or directory, open 'shttp://localhost:8080/wsdl?wsdl']
+2018-07-01 12:01:08 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:01:08 - [32minfo[39m: Listening on port 8080
+2018-07-01 12:01:08 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:01:08 - [31merror[39m: Error while creating client - Error: ENOENT: no such file or directory, open 'shttp://localhost:8080/wsdl?wsdl'
+2018-07-01 12:01:31 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:01:31 - [32minfo[39m: Listening on port 8080
+2018-07-01 12:01:31 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:01:31 - [31merror[39m: Unable to create client - [Error: ENOENT: no such file or directory, open 'shttp://localhost:8080/wsdl?wsdl']
+2018-07-01 12:01:41 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:01:41 - [32minfo[39m: Listening on port 8080
+2018-07-01 12:01:41 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:01:41 - [32minfo[39m: soap client has been created
+2018-07-01 12:01:41 - [32minfo[39m: Splitter service responded successfully{"result":["id1","12","34","56","out42"]}
+2018-07-01 12:02:15 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:02:15 - [32minfo[39m: Listening on port 8080
+2018-07-01 12:02:15 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:02:15 - [32minfo[39m: soap client has been created
+2018-07-01 12:02:15 - [32minfo[39m: Splitter has been processed - [[object Object]]
+2018-07-01 12:02:29 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:02:29 - [32minfo[39m: Listening on port 8080
+2018-07-01 12:02:29 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:02:29 - [32minfo[39m: soap client has been created
+2018-07-01 12:02:29 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:08:08 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:08:08 - [32minfo[39m: Listening on port 8080
+2018-07-01 12:08:08 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:08:08 - [32minfo[39m: soap client has been created
+2018-07-01 12:08:08 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:10:57 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:10:57 - [32minfo[39m: Listening on port 8080
+2018-07-01 12:10:57 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:10:57 - [32minfo[39m: soap client has been created
+2018-07-01 12:10:57 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:11:45 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:11:45 - [32minfo[39m: Listening on port 8080
+2018-07-01 12:11:45 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:11:45 - [32minfo[39m: soap client has been created
+2018-07-01 12:11:45 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:12:11 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:12:11 - [33mwarn[39m: Listening on port 8080
+2018-07-01 12:12:11 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:12:11 - [32minfo[39m: soap client has been created
+2018-07-01 12:12:11 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:12:14 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:12:14 - [32minfo[39m: Listening on port 8080
+2018-07-01 12:12:14 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:12:14 - [32minfo[39m: soap client has been created
+2018-07-01 12:12:14 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:12:19 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:12:19 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:12:19 - [32minfo[39m: soap client has been created
+2018-07-01 12:12:19 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:12:28 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:12:28 - [32minfo[39m: Listening on port 8080
+2018-07-01 12:12:28 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:12:28 - [32minfo[39m: soap client has been created
+2018-07-01 12:12:28 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:12:35 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:12:35 - [32minfo[39m: Listening on port 8080
+2018-07-01 12:12:35 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:12:35 - [32minfo[39m: soap client has been created
+2018-07-01 12:12:35 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:12:39 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:12:39 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:12:39 - [32minfo[39m: soap client has been created
+2018-07-01 12:12:39 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:12:46 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:12:46 - [32minfo[39m: Listening on port 8080
+2018-07-01 12:12:46 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:12:46 - [32minfo[39m: soap client has been created
+2018-07-01 12:12:46 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:12:57 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:12:57 - [32minfo[39m: Listening on port 8080
+2018-07-01 12:12:57 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:12:57 - [32minfo[39m: soap client has been created
+2018-07-01 12:12:57 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:13:11 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:13:11 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:13:11 - [32minfo[39m: soap client has been created
+2018-07-01 12:13:11 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:14:21 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:14:21 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:14:21 - [32minfo[39m: soap client has been created
+2018-07-01 12:14:21 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:14:30 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:14:30 - [32minfo[39m: Listening on port 8080
+2018-07-01 12:14:30 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:14:30 - [32minfo[39m: soap client has been created
+2018-07-01 12:14:30 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:14:47 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:14:47 - [32minfo[39m: Express Listening on port 8080
+2018-07-01 12:14:47 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:14:47 - [32minfo[39m: soap client has been created
+2018-07-01 12:14:47 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:15:05 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:15:05 - [32minfo[39m: Express Listening on port 8080
+2018-07-01 12:15:05 - [32minfo[39m: Soap Listening on port 8080
+2018-07-01 12:15:05 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl to see if the service is working
+2018-07-01 12:15:05 - [32minfo[39m: soap client has been created
+2018-07-01 12:15:05 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:15:31 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:15:31 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:15:31 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:15:31 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl
+2018-07-01 12:15:32 - [32minfo[39m: soap client has been created
+2018-07-01 12:15:32 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:15:44 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:15:44 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:15:44 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:15:44 - [32minfo[39m: Check http://localhost:8080/wsdl?wsdl
+2018-07-01 12:15:44 - [32minfo[39m: soap client has been created
+2018-07-01 12:15:44 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:16:02 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:16:02 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:16:02 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:16:02 - [32minfo[39m: soap client has been created
+2018-07-01 12:16:02 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:16:27 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:16:27 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:16:27 - [33mwarn[39m: Soap Listening on port [8080]
+2018-07-01 12:16:27 - [32minfo[39m: soap client has been created
+2018-07-01 12:16:27 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:16:33 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:16:33 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:16:33 - [32minfo[39m: soap client has been created
+2018-07-01 12:16:33 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:16:44 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:16:44 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:16:44 - [33mwarn[39m: Soap Listening on port [8080]
+2018-07-01 12:16:44 - [32minfo[39m: soap client has been created
+2018-07-01 12:16:44 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:16:47 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:16:47 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:16:47 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:16:47 - [32minfo[39m: soap client has been created
+2018-07-01 12:16:47 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:16:54 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:16:54 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:16:54 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:16:54 - [32minfo[39m: soap client has been created
+2018-07-01 12:16:54 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:17:08 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:17:08 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:17:08 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:17:08 - [32minfo[39m: soap client has been created
+2018-07-01 12:17:08 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:17:40 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:17:40 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:17:40 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:17:40 - [32minfo[39m: soap client has been created
+2018-07-01 12:17:40 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:17:56 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:17:56 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:17:56 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:17:57 - [32minfo[39m: soap client has been created
+2018-07-01 12:17:57 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:18:02 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:18:02 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:18:02 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:18:02 - [32minfo[39m: soap client has been created
+2018-07-01 12:18:02 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:18:32 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:18:32 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:18:32 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:18:33 - [32minfo[39m: Splitter has been processed - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:18:42 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:18:42 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:18:42 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:18:42 - [32minfo[39m: Response - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:18:48 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:18:48 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:18:48 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:18:48 - [32minfo[39m: Response - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:18:52 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:18:52 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:18:52 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:18:52 - [32minfo[39m: Response - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:21:17 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:21:17 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:21:17 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:21:17 - [32minfo[39m: Response - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:21:20 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:21:20 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:21:20 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:21:20 - [32minfo[39m: Response - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:21:31 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:21:31 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:21:31 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:21:31 - [32minfo[39m: Response - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:21:36 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:21:36 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:21:36 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:21:36 - [32minfo[39m: Response - [{"result":["id1","12","34","56","out42"]}]
+2018-07-01 12:21:44 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:21:44 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:21:44 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:21:50 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:21:50 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:21:50 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:22:32 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:22:32 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:22:32 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:22:32 - [32minfo[39m: Soap client has been initialized.[Basic]
+2018-07-01 12:22:38 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:22:38 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:22:38 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:22:39 - [32minfo[39m: Soap client has been initialized with auth [Basic]
+2018-07-01 12:22:51 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:22:51 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:22:51 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:22:51 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 12:23:05 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:23:05 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:23:05 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:23:06 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 12:23:11 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:23:11 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:23:11 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:23:11 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 12:23:24 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:23:24 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:23:24 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:23:24 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 12:24:19 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:24:19 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:24:19 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:24:19 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 12:24:58 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:24:58 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:24:58 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:25:09 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:25:09 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:25:09 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:25:09 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 12:25:46 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:25:46 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:25:46 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:25:46 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 12:26:22 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:26:22 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:26:22 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:26:22 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 12:36:16 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:36:16 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:36:16 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:36:16 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 12:36:29 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:36:29 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:36:29 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:36:29 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 12:37:05 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:37:05 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:37:05 - [32minfo[39m: Soap Listening on port [8080]
+2018-07-01 12:37:05 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 12:43:15 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:43:15 - [32minfo[39m: Express Listening on port [8080]
+2018-07-01 12:43:15 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 12:43:15 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 12:43:21 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 12:43:21 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 12:43:21 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:01:03 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:01:03 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:01:03 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:01:45 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:01:45 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:01:45 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:01:47 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:01:47 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:01:47 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:01:51 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:01:51 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:01:51 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:02:00 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:02:00 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:02:00 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:02:15 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:02:15 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:02:15 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:03:26 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:03:26 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:03:26 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:04:22 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:04:22 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:04:22 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:04:30 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:04:30 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:04:30 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:04:30 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:04:40 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:04:40 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:04:40 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:04:54 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:04:54 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:04:54 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:05:19 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:05:19 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:05:19 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:05:36 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:05:36 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:05:36 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:05:40 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:05:40 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:05:40 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:05:48 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:05:48 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:05:48 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:06:03 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:06:03 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:06:03 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:07:29 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:07:29 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:07:29 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:07:39 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:07:39 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:07:39 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 13:08:17 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 13:08:17 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 13:08:17 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 19:04:29 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:04:29 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 19:04:29 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 19:23:50 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:23:50 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 19:23:50 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 19:23:54 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:23:54 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 19:23:54 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 19:25:06 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:25:06 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 19:25:07 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 19:25:41 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:25:41 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 19:25:41 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 19:27:12 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:27:12 - [32minfo[39m: Soap Server has been initialised on port [8080]
+2018-07-01 19:27:12 - [32minfo[39m: Soap client has been initialized with [Basic] auth
+2018-07-01 19:41:23 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:41:23 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 19:41:38 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:41:38 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 19:44:06 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:44:06 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 19:45:10 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:45:10 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 19:51:22 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:51:22 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 19:51:46 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:51:46 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 19:52:53 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:52:53 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 19:55:48 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:55:48 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 19:56:02 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:56:02 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 19:56:53 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:56:53 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 19:56:55 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:56:55 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 19:57:02 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:57:02 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 19:58:32 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:58:32 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 19:58:40 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:58:40 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 19:58:56 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 19:58:56 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:01:27 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:01:27 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:01:45 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:01:45 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:02:51 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:02:51 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:03:52 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:03:52 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:04:00 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:04:00 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:04:11 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:04:11 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:04:50 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:04:50 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:04:51 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:04:51 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:04:53 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:04:53 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:05:01 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:05:01 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:05:05 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:05:05 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:05:09 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:05:09 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:06:10 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:06:10 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:06:13 - [32minfo[39m: Addition Response - [{"result":"3"}]
+2018-07-01 20:06:13 - [32minfo[39m: Addition Response - [{"result":"2"}]
+2018-07-01 20:06:13 - [32minfo[39m: Addition Response - [{"result":"0.5"}]
+2018-07-01 20:06:13 - [32minfo[39m: Addition Response - [{"result":"-1"}]
+2018-07-01 20:06:35 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:06:35 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:06:42 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:06:42 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:06:52 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:06:52 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:06:57 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:06:57 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:07:04 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:07:04 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:07:06 - [32minfo[39m: Addition Response - [{"result":"15"}]
+2018-07-01 20:07:06 - [32minfo[39m: Multiply Response - [{"result":"50"}]
+2018-07-01 20:07:06 - [32minfo[39m: Subtraction Response - [{"result":"5"}]
+2018-07-01 20:07:06 - [32minfo[39m: Divison Response - [{"result":"2"}]
+2018-07-01 20:07:22 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:07:22 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:08:01 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:08:01 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:08:05 - [32minfo[39m: Addition Response - [{"result":"15"}]
+2018-07-01 20:09:06 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:09:06 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:09:11 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:09:11 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:09:14 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:09:14 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:09:17 - [32minfo[39m: Addition Response - [{"result":"15"}]
+2018-07-01 20:09:24 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:09:24 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:09:26 - [32minfo[39m: Addition Response - [{"result":"15"}]
+2018-07-01 20:09:26 - [32minfo[39m: Subtraction Response - [{"result":"5"}]
+2018-07-01 20:09:26 - [32minfo[39m: Divison Response - [{"result":"2"}]
+2018-07-01 20:09:26 - [32minfo[39m: Multiply Response - [{"result":"50"}]
+2018-07-01 20:09:26 - [31merror[39m: Divison Response - [{"Fault":{"faultcode":500,"faultstring":"Invalid XML","detail":"Error: Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: E","statusCode":500},"response":{"statusCode":500,"body":"Error: [object Object]\n    at divide (/Users/rajavenkateshwaran/Desktop/learning/soap-node/lib/services/Calculator/calculator.js:34:15)\n    at Server._executeMethod (/Users/rajavenkateshwaran/Desktop/learning/soap-node/node_modules/soap/lib/server.js:400:16)\n    at Server._process (/Users/rajavenkateshwaran/Desktop/learning/soap-node/node_modules/soap/lib/server.js:320:12)\n    at Server._processRequestXml (/Users/rajavenkateshwaran/Desktop/learning/soap-node/node_modules/soap/lib/server.js:146:10)\n    at IncomingMessage.<anonymous> (/Users/rajavenkateshwaran/Desktop/learning/soap-node/node_modules/soap/lib/server.js:223:12)\n    at IncomingMessage.emit (events.js:180:13)\n    at endReadableNT (_stream_readable.js:1106:12)\n    at process._tickCallback (internal/process/next_tick.js:178:19)","headers":{"x-powered-by":"Express","content-type":"text/xml; charset=utf-8","date":"Sun, 01 Jul 2018 14:39:26 GMT","connection":"close","transfer-encoding":"chunked"},"request":{"uri":{"protocol":"http:","slashes":true,"auth":null,"host":"localhost:8081","port":"8081","hostname":"localhost","hash":null,"search":"?wsdl","query":"wsdl","pathname":"/calculator","path":"/calculator?wsdl","href":"http://localhost:8081/calculator?wsdl"},"method":"POST","headers":{"User-Agent":"node-soap/0.24.0","Accept":"text/html,application/xhtml+xml,application/xml,text/xml;q=0.9,*/*;q=0.8","Accept-Encoding":"none","Accept-Charset":"utf-8","Connection":"close","Host":"localhost:8081","Content-Length":332,"Content-Type":"text/xml; charset=utf-8","SOAPAction":"\"divide\""}}},"body":"Error: [object Object]\n    at divide (/Users/rajavenkateshwaran/Desktop/learning/soap-node/lib/services/Calculator/calculator.js:34:15)\n    at Server._executeMethod (/Users/rajavenkateshwaran/Desktop/learning/soap-node/node_modules/soap/lib/server.js:400:16)\n    at Server._process (/Users/rajavenkateshwaran/Desktop/learning/soap-node/node_modules/soap/lib/server.js:320:12)\n    at Server._processRequestXml (/Users/rajavenkateshwaran/Desktop/learning/soap-node/node_modules/soap/lib/server.js:146:10)\n    at IncomingMessage.<anonymous> (/Users/rajavenkateshwaran/Desktop/learning/soap-node/node_modules/soap/lib/server.js:223:12)\n    at IncomingMessage.emit (events.js:180:13)\n    at endReadableNT (_stream_readable.js:1106:12)\n    at process._tickCallback (internal/process/next_tick.js:178:19)"}]
+2018-07-01 20:10:04 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:10:04 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:10:06 - [32minfo[39m: Multiply Response - [{"result":"50"}]
+2018-07-01 20:10:06 - [32minfo[39m: Subtraction Response - [{"result":"5"}]
+2018-07-01 20:10:06 - [32minfo[39m: Addition Response - [{"result":"15"}]
+2018-07-01 20:10:06 - [32minfo[39m: Divison Response - [{"result":"2"}]
+2018-07-01 20:11:09 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:11:09 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:11:13 - [32minfo[39m: Addition Response - [{"result":"15"}]
+2018-07-01 20:11:13 - [32minfo[39m: Divison Response - [{"result":"2"}]
+2018-07-01 20:11:13 - [31merror[39m: Unable to divide ["Invalid XML"]
+2018-07-01 20:11:13 - [32minfo[39m: Multiply Response - [{"result":"50"}]
+2018-07-01 20:11:13 - [32minfo[39m: Subtraction Response - [{"result":"5"}]
+2018-07-01 20:11:41 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:11:41 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:11:43 - [32minfo[39m: Addition Response - [{"result":"15"}]
+2018-07-01 20:11:43 - [32minfo[39m: Divison Response - [{"result":"3.3333333333333335"}]
+2018-07-01 20:11:43 - [32minfo[39m: Divison Response - [{"result":"2"}]
+2018-07-01 20:11:43 - [32minfo[39m: Multiply Response - [{"result":"50"}]
+2018-07-01 20:11:43 - [32minfo[39m: Subtraction Response - [{"result":"5"}]
+2018-07-01 20:11:49 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:11:49 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:11:51 - [32minfo[39m: Addition Response - [{"result":"15"}]
+2018-07-01 20:11:51 - [32minfo[39m: Subtraction Response - [{"result":"5"}]
+2018-07-01 20:11:51 - [32minfo[39m: Multiply Response - [{"result":"50"}]
+2018-07-01 20:11:51 - [32minfo[39m: Divison Response - [{"result":"2"}]
+2018-07-01 20:11:51 - [31merror[39m: Unable to divide ["Invalid XML"]
+2018-07-01 20:12:14 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:12:14 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:12:16 - [32minfo[39m: Addition Response - [{"result":"15"}]
+2018-07-01 20:12:16 - [32minfo[39m: Multiply Response - [{"result":"50"}]
+2018-07-01 20:12:16 - [32minfo[39m: Divison Response - [{"result":"2"}]
+2018-07-01 20:12:16 - [32minfo[39m: Subtraction Response - [{"result":"5"}]
+2018-07-01 20:12:16 - [31merror[39m: Unable to divide ["Invalid XML"]
+2018-07-01 20:12:24 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:12:24 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:13:09 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:13:09 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:13:21 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:13:21 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:13:27 - [32minfo[39m: wsdl file has been sync loaded
+2018-07-01 20:13:27 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:13:41 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:13:41 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:13:59 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:13:59 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:13:59 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:14:26 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:14:26 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:14:26 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:15:07 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:15:07 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:15:07 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:15:18 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:15:18 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:15:18 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:15:18 - [32minfo[39m: Soap Server has been initialised on port [8081]
+2018-07-01 20:15:26 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:15:26 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:15:26 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:15:26 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:15:31 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:15:31 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:15:31 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:15:31 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:16:04 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:16:04 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:16:04 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:16:04 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:16:13 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:16:13 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:16:13 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:16:13 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:20:56 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:20:56 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:20:56 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:20:56 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:21:02 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:21:02 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:21:02 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:21:02 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:23:07 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:23:07 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:23:07 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:23:07 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:23:15 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:23:15 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:23:15 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:23:15 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:23:29 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:23:29 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:23:29 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:23:29 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:24:39 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:24:39 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:24:39 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:24:39 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:24:53 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:24:53 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:24:53 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:24:53 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:25:36 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:25:36 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:25:36 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:25:36 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:25:48 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:25:48 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:25:49 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:25:49 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:25:56 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:25:56 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:25:56 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:25:56 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:26:11 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:26:11 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:26:11 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:26:11 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:26:21 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:26:21 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:26:21 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:26:21 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:26:29 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:26:29 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:26:29 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:26:29 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:26:35 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:26:35 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:26:35 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:26:35 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:27:01 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:27:01 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:27:01 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:27:01 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:27:18 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:27:18 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:27:18 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:27:18 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:27:23 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:27:23 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:27:23 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:27:23 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:27:32 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:27:32 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:27:32 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:27:32 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:28:23 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:28:23 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:28:23 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:28:23 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:28:54 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:28:54 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:28:54 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:28:54 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:29:30 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:29:30 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:29:31 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:29:31 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:29:48 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:29:48 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:29:48 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:29:48 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:30:18 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:30:18 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:30:18 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:30:18 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:30:38 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:30:38 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:30:38 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:30:38 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:31:32 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:31:32 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:31:32 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:31:32 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:32:44 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:32:44 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:32:44 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:32:44 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:32:57 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:32:57 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:32:57 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:32:57 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:33:01 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:33:01 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:33:01 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:33:01 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:34:03 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:34:03 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:34:03 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:34:03 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:34:45 - [32minfo[39m: Addition Response - [{"result":"15"}]
+2018-07-01 20:34:45 - [32minfo[39m: Divison Response - [{"result":"2"}]
+2018-07-01 20:34:45 - [32minfo[39m: Multiply Response - [{"result":"50"}]
+2018-07-01 20:34:45 - [32minfo[39m: Subtraction Response - [{"result":"5"}]
+2018-07-01 20:34:45 - [31merror[39m: Unable to divide ["Invalid XML"]
+2018-07-01 20:35:15 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:35:15 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:35:15 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:35:15 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:35:20 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:35:20 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:35:20 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:35:20 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:35:27 - [32minfo[39m: calc wsdl file has been sync loaded
+2018-07-01 20:35:27 - [32minfo[39m: splitter wsdl file has been sync loaded
+2018-07-01 20:35:27 - [32minfo[39m: Calc Server has been initialised on port [8081]
+2018-07-01 20:35:27 - [32minfo[39m: Splitter Server has been initialised on port [8081]
+2018-07-01 20:35:31 - [32minfo[39m: Addition Response - [{"result":"15"}]
+2018-07-01 20:35:31 - [32minfo[39m: Divison Response - [{"result":"2"}]
+2018-07-01 20:35:31 - [32minfo[39m: Multiply Response - [{"result":"50"}]
+2018-07-01 20:35:31 - [31merror[39m: Unable to divide ["Invalid XML"]
+2018-07-01 20:35:31 - [32minfo[39m: Subtraction Response - [{"result":"5"}]
